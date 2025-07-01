@@ -1,6 +1,3 @@
-
-- `mysql_cli.py`:
-```python
 import mysql.connector
 
 conn = mysql.connector.connect(
